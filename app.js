@@ -69,5 +69,19 @@
 //Chapter 3
 
 //Task#1
-age=20
-alert
+// age=20
+// alert(age)
+
+//Task#2??
+// noOfVisits=14
+// alert("You have visited this site "+noOfVisits+" times")
+
+// //Task#3
+// birthYear=2000
+// document.write("My birth year is "+birthYear+'<br>'+'Data type of my variable is ' + typeof birthYear) //*****
+
+// //Task#4
+// name=prompt('Enter your name')
+// title=prompt("Enter product title")
+// quantity=+prompt('Enter the quantity of product')
+// document.write(name+' ordered '+quantity+' '+title+' on XYZ clothing store')
