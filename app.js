@@ -61,3 +61,13 @@
 // //Task#8
 // var abc="Yeah! I can write HTML content through JS"
 // document.write(abc)
+
+//Task#9
+
+
+
+//Chapter 3
+
+//Task#1
+age=20
+alert
